@@ -1,5 +1,4 @@
 # Toward a General Intelligence: Multi-Agentic Orchestration and the Principle of Relevance Realization
-_**By. Wil Neeley**_
 
 ## Abstract
 
